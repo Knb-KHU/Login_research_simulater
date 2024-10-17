@@ -1,0 +1,6 @@
+﻿  Login_research_simul_v2.cpp
+C:\Users\user\source\repos\practice\Login_research_simul_v2.cpp\Login_research_simul_v2.cpp\Login_research_simul_v2.cpp(99,25): warning C4101: 'c' :참조되지 않은 지역 변수입니다.
+C:\Users\user\source\repos\practice\Login_research_simul_v2.cpp\Login_research_simul_v2.cpp\Login_research_simul_v2.cpp(99,28): warning C4101: 'd' :참조되지 않은 지역 변수입니다.
+C:\Users\user\source\repos\practice\Login_research_simul_v2.cpp\Login_research_simul_v2.cpp\Login_research_simul_v2.cpp(168,17): warning C4101: 'c' :참조되지 않은 지역 변수입니다.
+C:\Users\user\source\repos\practice\Login_research_simul_v2.cpp\Login_research_simul_v2.cpp\Login_research_simul_v2.cpp(168,20): warning C4101: 'd' :참조되지 않은 지역 변수입니다.
+  Login_research_simul_v2.cpp.vcxproj -> C:\Users\user\source\repos\practice\Login_research_simul_v2.cpp\x64\Debug\Login_research_simul_v2.cpp.exe
